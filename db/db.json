@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Kedves Piroska",
+      "email": "p@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Mihalik Anna ",
+      "email": "annam@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Vadász János",
+      "email": "v@gmail.com"
+    },
+    {
+      "name": "Vass Kati",
+      "email": "vasskati@gmail.com",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Kircsak Dávid",
+      "email": "kircs@gmail.com"
+    },
+    {
+      "name": "Nagy Ervin",
+      "email": "nagye@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Géczi Mariann",
+      "email": "gém@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Géza",
+      "email": "g@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Édes Petra",
+      "email": "épertra@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Dézi Félix",
+      "email": "dfelix@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Méri Katalin",
+      "email": "merikata@gmail.com",
+      "id": 11
+    }
+  ],
+  "comments": []
+}
